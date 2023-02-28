@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Path of the folder to be organized
-path = "ecenter-img"
+path = "./"
 # path = "Unorganized_Files"
 
 # Dictionary with file types and their respective folder names
@@ -22,6 +22,15 @@ folders = {
     "svg":  "Images/SVG",
     "gif":  "Images/GIF",
     "webp":  "Images/WEBP",
+
+    "less":  "Codes/CSS",
+    "css":  "Codes/CSS",
+    "php":  "Codes/PHP",
+    "html":  "Codes/HTML",
+    "js":  "Codes/JS",
+    "json":  "Codes/JSON",
+    
+    "sql":  "SQL",
 
     "zip":  "Archive",
     "gz":  "Archive/GZ",
