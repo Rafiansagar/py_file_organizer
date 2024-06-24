@@ -27,6 +27,7 @@ folders = {
     "css":  "Codes/CSS",
     "php":  "Codes/PHP",
     "html":  "Codes/HTML",
+    "xml":  "Codes/XML",
     "js":  "Codes/JS",
     "json":  "Codes/JSON",
     
