@@ -36,6 +36,9 @@ folders = {
     "zip":  "Archive",
     "gz":  "Archive/GZ",
     "rar":  "Archive/RAR",
+
+    "exe":  "Software",
+    "iso":  "Software",
 }
 
 # Loop through each file in the folder
