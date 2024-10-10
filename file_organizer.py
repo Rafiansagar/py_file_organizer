@@ -38,6 +38,7 @@ folders = {
     "rar":  "Archive/RAR",
 
     "exe":  "Software",
+    "msi":  "Software",
     "iso":  "Software",
 }
 
