@@ -24,6 +24,7 @@ folders = {
     "webp":  "Images/WEBP",
 
     "less":  "Codes/CSS",
+    "scss":  "Codes/SCSS",
     "css":  "Codes/CSS",
     "php":  "Codes/PHP",
     "html":  "Codes/HTML",
