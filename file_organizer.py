@@ -10,6 +10,8 @@ folders = {
     "doc":  "Documents",
     "txt":  "Text Files",
     "pdf":  "PDFs",
+    "psd":  "Adobe/PSDs",
+    "ai":  "Adobe/Ais",
 
     "mp3":  "Music",
 
