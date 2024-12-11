@@ -6,4 +6,8 @@
 4. Write python file_organizer.py or just double click on python file
 5. Press Enter
 
+# Organize All File With .exe Software
+1. Place the file_organizer.exe file whare you need to organize all unorganized files.
+2. Double-Click on that file & you good to go.
+
 Thats all.
