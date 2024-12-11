@@ -1,9 +1,10 @@
+# Rafian Sagar File Organizer Software
+
 import os
 import shutil
 
 # Path of the folder to be organized
 path = "./"
-# path = "Unorganized_Files"
 
 # Dictionary with file types and their respective folder names
 folders = {
