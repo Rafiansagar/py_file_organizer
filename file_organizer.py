@@ -7,7 +7,7 @@ path = "./"
 
 # Dictionary with file types and their respective folder names
 folders = {
-    "doc":  "Documents",
+    "doc":  "Doc",
     "txt":  "Text Files",
     "pdf":  "PDFs",
     "psd":  "Adobe/PSDs",
@@ -33,8 +33,10 @@ folders = {
     "xml":  "Codes/XML",
     "js":  "Codes/JS",
     "json":  "Codes/JSON",
-    
-    "sql":  "SQL",
+    "java":  "Codes/Java",
+    "kt":  "Codes/Kotlin",
+    "sql":  "Codes/SQL",
+    "py":  "Codes/Python",
 
     "zip":  "Archive",
     "gz":  "Archive/GZ",
@@ -45,8 +47,15 @@ folders = {
     "iso":  "Software",
 }
 
+# List of files to exclude
+exclude_files = ["file_organizer.py", "file_organizer.exe"]
+
 # Loop through each file in the folder
 for filename in os.listdir(path):
+    # Skip excluded files
+    if filename in exclude_files:
+        continue
+    
     # Get the extension of the file
     ext = os.path.splitext(filename)[1][1:]
     
