@@ -4,8 +4,8 @@
 2. Double-Click on that file_organizer.exe file & it will genarate a folder "Organized" and all file will move to this folder and will create sub directories based on file extention inside.
 
 * Incase you get warning when run the file_organizer.exe file (don't worry nothing hermfull here).
-  a. Click "More info."
-  b. Click "Run anyway."
+a. Click "More info."
+b. Click "Run anyway."
 
 # Organize All File With Python
 
