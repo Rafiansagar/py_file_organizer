@@ -9,6 +9,7 @@ path = "./"
 # Dictionary with file types and their respective folder names
 folders = {
     "doc":  "Doc",
+    "docx":  "Doc",
     "txt":  "Text Files",
     "pdf":  "PDFs",
     "psd":  "Adobe/PSDs",
@@ -18,6 +19,8 @@ folders = {
 
     "mp4":  "Videos",
     "mkv":  "Videos",
+    "webm":  "Videos",
+    "avi":  "Videos",
 
     "jpg":  "Images",
     "jpeg": "Images",
@@ -38,6 +41,12 @@ folders = {
     "kt":  "Codes/Kotlin",
     "sql":  "Codes/SQL",
     "py":  "Codes/Python",
+    "liquid":  "Codes/Liquid",
+    "csv":  "Codes",
+    "log":  "Codes",
+    "ini":  "Codes",
+
+    "pot": "Language",
 
     "zip":  "Archive",
     "gz":  "Archive/GZ",
